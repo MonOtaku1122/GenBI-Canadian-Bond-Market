@@ -6,7 +6,7 @@ import google.generativeai as genai
 
 # --- Configure Gemini ---
 genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 df_clean = pd.read_csv("df_pivot_cleaned.csv")
 df_clean['Year'] = pd.to_datetime(df_clean['REF_DATE']).dt.year
